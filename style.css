@@ -1,0 +1,36 @@
+.semaforo{
+	padding-right: 10%;
+	padding-left: 10%;
+	border: solid black;
+	background: black;
+	padding: 50px;
+	height: 350px;
+	width: 350px;
+
+}
+.rojo{
+	background: red;
+	opacity:0.2;
+	height: 100px;
+	width: 150px;
+	position: left;
+	border-radius: 100%
+
+}
+.amarillo{
+	background: yellow;
+	opacity: 0.2;
+	height: 100px;
+	width: 150px;
+	border-radius: 100%;
+
+}
+.verde{
+
+	background: green;
+	opacity: 0.2; 
+	height: 100px;
+	width: 150px;
+	border-radius: 100%
+
+}
